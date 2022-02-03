@@ -14,7 +14,7 @@ author_profile: true
 
 履歴書は[こちら](https://taka-oda.github.io/files/cv.pdf)
 
-## 研究領域
+## 専門・関心領域
 - 計算機科学
   - 統計的機械学習 / 統計的因果推論
   - オフライン推薦学習
