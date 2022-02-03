@@ -1,22 +1,16 @@
-# main links links
+# main links
 main:
+  - title: "CV"
+    url: https://taka-oda.github.io/files/cv.pdf
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Others"
+    url: /others/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "日本語"
+    url: /japanese/
+
+  - title: "Blog (in Japanese)"
+    url: https://note.com/tsu_bu_gai
