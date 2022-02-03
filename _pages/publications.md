@@ -14,7 +14,7 @@ _Proceedings of the 2021 IEEE International Conference on Big Data ([BigData2021
 
 1. <u>Takahiro Oda</u>, Jason D. Hartline. <br>
 **Central Bank Communication as a Game Theory** <br>
-Forthcoming, _The Twenty-Second ACM Conference on Economics and Computation ([EC'22](https://ec22.sigecom.org/)). <br>
+Forthcoming, _The Twenty-Second ACM Conference on Economics and Computation ([EC'22](https://ec22.sigecom.org/))_. <br>
 [[paper](https://taka-oda.github.io//files/CBGame.pdf)]
 
 ## Selected Work in Progress
