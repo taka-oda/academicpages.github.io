@@ -10,11 +10,11 @@ author_profile: true
 
 1. Daisuke Moriwaki, Yuta Hayakawa, Isshu Munemasa, Yuta Saito, <u>Takahiro Oda</u>, and Akira Matsui. <br>
 **A Real-World Implementation of UnbiasedLift-based Bidding System** <br>
-_Proceedings of the 2021 IEEE International Conference on Big Data ([BigData2021](https://bigdataieee.org/BigData2021/))_. <br>
+_Proceedings of the 2021 IEEE International Conference on Big Data ([BigData2021](https://bigdataieee.org/BigData2021/))_ (to appear). <br>x
 
 1. <u>Takahiro Oda</u>, Jason D. Hartline. <br>
 **Central Bank Communication as a Game Theory** <br>
-_The Twenty-Second ACM Conference on Economics and Computation ([EC'22](https://ec22.sigecom.org/))_. <br>
+Forthcoming, _The Twenty-Second ACM Conference on Economics and Computation ([EC'22](https://ec22.sigecom.org/)). <br>
 [[paper](https://taka-oda.github.io//files/CBGame.pdf)]
 
 ## Selected Work in Progress
@@ -24,3 +24,4 @@ _The Twenty-Second ACM Conference on Economics and Computation ([EC'22](https://
    
 1. Create Smart Seasoning Online and Offline <br>
    with [Kayanoya](https://www.kayanoya.com/en/), a Japanese Seasoning Company
+
