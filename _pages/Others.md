@@ -39,12 +39,13 @@ This institute was established with the aim of contributing to education in Japa
 - *IR Reading, Fall 2020* at [Tokyo ACM SIGIR Chapter](https://sigir.jp/page/en/about/)
 
 ### - Industry
-- atama plus inc. / Aug, 2020
-- Indeed, Japan / Dec, 2020
-- ZOZO Technology / Dec, 2020
-- Mitsubishi UFJ Research & Consulting / Nov, 2021
-- KANKAK, Inc. / Dec, 2021
-- Microsoft Research Asia / Dec, 2021
+- [atama plus inc.](https://corp.atama.plus/) / Aug, 2020
+- [Indeed, Japan](https://jp.indeed.jobs/) / Dec, 2020
+- [ZOZO Technologies](https://zozonext.com/en) / Dec, 2020
+- [ALE Co, Ltd.](https://star-ale.com/en/) / Nov, 2021
+- [Mitsubishi UFJ Research & Consulting](https://www.murc.jp/english/) / Nov, 2021
+- [HOLON GIN](https://www.instagram.com/holon_gin_/) / Dec, 2021
+- [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) / Dec, 2021
 
 
 ## Professional Service
