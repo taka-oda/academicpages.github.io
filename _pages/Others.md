@@ -41,8 +41,10 @@ This institute was established with the aim of contributing to education in Japa
 ### - Industry
 - atama plus inc. / Aug, 2020
 - Indeed, Japan / Dec, 2020
-- ZOZO Technology / Feb, 2021
-- Mitsubishi UFJ Research & Consulting, Metrics Work Consultants Inc. / Nov, 2021
+- ZOZO Technology / Dec, 2020
+- Mitsubishi UFJ Research & Consulting / Nov, 2021
+- KANKAK, Inc. / Dec, 2021
+- Microsoft Research Asia / Dec, 2021
 
 
 ## Professional Service
