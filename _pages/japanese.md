@@ -68,7 +68,7 @@ _RecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interaction
 - [atama plus](https://www.atama.plus/): 2020年8月
 - [Indeed, Japan](https://jp.indeed.com/about): 2020年12月
 - [ZOZOテクノロジーズ](https://tech.zozo.com/): 2020年12月
-- [株式会社ALE](https://star-ale.com/): 
+- [株式会社ALE](https://star-ale.com/): 2021年10月
 - [三菱UFJリサーチ&コンサルティング](https://www.murc.jp/): 2021年10月
 - [HOLON GIN](https://holongin.com/): 2021年12月
 - [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/): 2021年12月
