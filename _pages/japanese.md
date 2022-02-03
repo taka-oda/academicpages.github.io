@@ -105,7 +105,7 @@ _RecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interaction
 
 ### atama plus EdTech研究所
 
-東京に本社を置く教育系スタートアップにて執筆した、エドテックの市場に関する調査レポート<br>
+東京に本社を置く教育系スタートアップにて一部を執筆した、エドテックの市場に関する調査レポート<br>
 [[HP](https://edtech-research.com/)]
 
 ### LearnLab
