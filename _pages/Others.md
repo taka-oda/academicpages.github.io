@@ -56,3 +56,6 @@ This institute was established with the aim of contributing to education in Japa
 - AISTATS: [2021](http://www.aistats.org/aistats2021/)
 - EC: [2022](https://ec22.sigecom.org/)
 
+### - Organizing Committee (in Japan)
+- CCSE(Conference on Computer Science for Enterprise): [2020](https://ccse.jp/2020/), [2021](https://ccse.jp/2021/)
+
