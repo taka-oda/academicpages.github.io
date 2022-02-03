@@ -72,8 +72,13 @@ _RecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interaction
 - HOLON GIN: 2021年12月
 - Microsoft Research Asia: 2021年12月
 
+### 勉強会発表
+- What if 読書会: [note](https://note.com/suntarooo3/n/nefa975a051cf)
+- Machine learning paper reading pitch: [第4回](https://machine-learning-pitch.connpass.com/event/136409/), [第5回](https://machine-learning-pitch.connpass.com/event/137427/), [第6回](https://machine-learning-pitch.connpass.com/event/146051/)
+- CHI勉強会: [2020](https://sigchi.jp/seminar/chi2020/), [2021](https://sigchi.jp/seminar/chi2021/)
 
-## 査読
+
+## 学会活動（査読）
 
 ### 国際会議
 - ICLR: [2022](https://iclr.cc/Conferences/2022)
@@ -81,6 +86,9 @@ _RecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interaction
 - NeurIPS: [2021](https://nips.cc/Conferences/2021)
 - AISTATS: [2021](https://aistats.org/aistats2021/)
 - EC: [2022](https://ec22.sigecom.org/)
+
+### 国内会議（日本）
+- Conference on Computer Science for Enterprise(CCSE): [2020](https://ccse.jp/2020/), [2021](https://ccse.jp/2021/)
 
 ### ワークショップ
 - [NeurIPS 2021 Workshop on Causal Inference Challenges in Sequential Decision Making](https://sites.google.com/view/causal-sequential-decisions/home)
