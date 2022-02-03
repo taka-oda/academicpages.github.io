@@ -28,5 +28,5 @@ Forthcoming, _The Twenty-Third ACM Conference on Economics and Computation ([EC'
 1. Market Design and Citizenship for sale <br>
    with Jason D. Hartline
    
-1. Toward a digitalized teacher at scale: Evidence from Japan
-   with some local governments and an edtech start-up in Japan
+1. Toward a digitalized teacher at scale: Evidence from Japan <br>
+   with some local governments and an EdTech start-up in Japan
