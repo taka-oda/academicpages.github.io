@@ -67,8 +67,9 @@ _RecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interaction
 
 - atama plus株式会社: 2020年8月
 - Indeed, Japan: 2020年12月
-- ZOZOテクノロジーズ: 2021年2月
-- 三菱UFJリサーチ&コンサルティング・メトリクスワークコンサルタンツ: 2021年10月
+- ZOZOテクノロジーズ: 2020年12月
+- 三菱UFJリサーチ&コンサルティング: 2021年10月
+- 
 
 
 ## 査読
@@ -89,15 +90,13 @@ _RecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interaction
 ### Policy Garage
 
 日本の自治体を起点に、政策のオープンイノベーションの加速を図るNPO。
-一般に基礎自治体と呼ばれる市区町村は、人々の生活に最も近い行政の最小単位として、対人の公共サービスの供給のあり方に強いインパクトを持つ。Policy Garageは地方自治体、省庁、アカデミア、民間事業者、NPO、市民の間に存在する溝を埋めることで、政策イノベーションの実現を図る
-
+一般に基礎自治体と呼ばれる市区町村は、人々の生活に最も近い行政の最小単位として、対人の公共サービスの供給のあり方に強いインパクトを持つ。Policy Garageは地方自治体、省庁、アカデミア、民間事業者、NPO、市民の間に存在する溝を埋めることで、政策イノベーションの実現を図る<br>
 [[HP](https://policygarage.or.jp/)]
 [[note](https://note.com/policygarage)]
 
 ### Open Bandit Project
 
-オフ方策評価 (Off-Policy Evaluation) の現実的で再現可能な性能評価を可能にするためのデータセット (Open Bandit Dataset) とOSS (Open Bandit Pipeline) の公開を含むオープンソースプロジェクト
-
+オフ方策評価 (Off-Policy Evaluation) の現実的で再現可能な性能評価を可能にするためのデータセット (Open Bandit Dataset) とOSS (Open Bandit Pipeline) の公開を含むオープンソースプロジェクト<br>
 [[Open Bandit Pipeline](https://github.com/st-tech/zr-obp)]
 [[Open Bandit Dataset](https://research.zozo.com/data.html)]
 [[プレスリリース](https://corp.zozo.com/news/20200818-11223/)]
@@ -105,13 +104,12 @@ _RecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interaction
 
 ### atama plus EdTech研究所
 
-東京に本社を置く教育系スタートアップにて執筆した、エドテックの市場に関する調査レポート
-
+東京に本社を置く教育系スタートアップにて執筆した、エドテックの市場に関する調査レポート<br>
 [[HP](https://edtech-research.com/)]
 
 ### LearnLab
 
-カーネギーメロン大学内の教育科学に関する研究プロジェクト機関。米国ピッツバーグを中心に、データを活用したSTEM教育を自治体の枠を超えて実施する大規模なプロジェクト
-
+カーネギーメロン大学内の教育科学に関する研究プロジェクト機関。米国ピッツバーグを中心に、データを活用したSTEM教育を自治体の枠を超えて実施する大規模なプロジェクト <br>
 [[HP](https://learnlab.org/)]
 [[リサーチプロジェクト](https://learnlab.org/university-industry-collaboration-to-accelerate-learning/)]
+
