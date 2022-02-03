@@ -65,11 +65,12 @@ _RecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interaction
 
 ### 企業
 
-- atama plus株式会社: 2020年8月
+- atama plus: 2020年8月
 - Indeed, Japan: 2020年12月
 - ZOZOテクノロジーズ: 2020年12月
 - 三菱UFJリサーチ&コンサルティング: 2021年10月
-- 
+- HOLON GIN: 2021年12月
+- Microsoft Research Asia: 2021年12月
 
 
 ## 査読
