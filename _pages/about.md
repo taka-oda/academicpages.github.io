@@ -33,6 +33,20 @@ My research interest lies at the combination of causal inference and machine lea
   - B.A. in Economics
   - Research Topics: Econometrics, ALgorithmic Mechanism Design, Recommendation Systems
 
+
+# Selcted Recent & Upcoming Talks
+
+## Academia
+- *Caltech [CMX](http://cmx.caltech.edu/) Lunch Seminar Series* / Mar, 2022
+- *Educational Testing Services ([ETS](https://www.ets.org/))* / Feb, 2022
+- *International AAAI Conference on Web and Social Media ([ICWSM '21](https://www.icwsm.org/2021/index.html))* / June, 2021
+
+## Industry
+- [ALE Co, Ltd.](https://star-ale.com/en/) / Nov, 2021
+- [HOLON GIN](https://www.instagram.com/holon_gin_/) / Dec, 2021
+- [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) / Dec, 2021
+
+
 # News
 - 2021.10:  "Open Bandit Dataset and Pipeline" has been accepted at [NeurIPS2021](https://nips.cc/Conferences/2021) Datasets and Benchmarks Track!
 
