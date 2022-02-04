@@ -20,13 +20,13 @@ Forthcoming, _The Twenty-Third ACM Conference on Economics and Computation ([EC'
 ## Selected Work in Progress
 
 1. **Data-driven Demand Modeling** <br>
-   with Yusuke Narita(Yale) and Kota Saito(Caltech)
+   with Yusuke Narita and Kota Saito
    
 1. **Create Smart Seasoning Online and Offline** <br>
    with [Kayanoya](https://www.kayanoya.com/en/), a Japanese Seasoning Company
 
 1. **Market Design and Citizenship for sale** <br>
-   with Rediet Abebe(Berkeley)
+   with Rediet Abebe
    
 1. **Toward a digitalized teacher at scale: Evidence from Japan** <br>
    with an EdTech start-up and some local governments in Japan
