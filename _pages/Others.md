@@ -33,7 +33,7 @@ This institute was established with the aim of contributing to education in Japa
 [[HP](https://learnlab.org/)] [[Research Project](https://learnlab.org/university-industry-collaboration-to-accelerate-learning/)]
 
 
-## Selected Recent & Upcoming Talks
+## Recent & Upcoming Talks
 
 ### - Academia
 - *Caltech [CMX](http://cmx.caltech.edu/) Lunch Seminar Series* / Mar, 2022
