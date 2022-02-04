@@ -53,4 +53,4 @@ My research interest lies at the combination of causal inference and machine lea
 
 # Contact
 - Email : taka-oda[at]keio.jp
-- Address : Tokyo, JPN
+- DM Me : [Twitter](https://twitter.com/0directi0n_)
