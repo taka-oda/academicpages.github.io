@@ -50,3 +50,7 @@ My research interest lies at the combination of causal inference and machine lea
 # News
 - 2021.10:  "Open Bandit Dataset and Pipeline" has been accepted at [NeurIPS2021](https://nips.cc/Conferences/2021) Datasets and Benchmarks Track!
 
+
+# Contact
+- Email : taka-oda[at]keio.jp
+- Address : Tokyo, JPN
