@@ -61,7 +61,10 @@ _RecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interaction
 
 ### 学術
 
-- [IR Reading2020秋](https://sigir.jp/post/2020-10-31-irreading_2020fall/)
+- IR Reading [2020秋](https://sigir.jp/post/2020-10-31-irreading_2020fall/)
+- Educational Testing Services ([ETS](https://etsjapan.jp/))
+- International AAAI Conference on Web and Social Media ([ICWSM '21](https://www.icwsm.org/2021/index.html))
+- [Caltech CMX]((http://cmx.caltech.edu/)) Lunch Seminar Series
 
 ### 企業
 
