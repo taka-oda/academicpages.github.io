@@ -29,4 +29,4 @@ Forthcoming, _The Twenty-Third ACM Conference on Economics and Computation ([EC'
    with Jason D. Hartline
    
 1. **Toward a digitalized teacher at scale: Evidence from Japan** <br>
-   with some local governments and an EdTech start-up in Japan
+   with an EdTech start-up and some local governments in Japan
