@@ -39,7 +39,7 @@ This institute was established with the aim of contributing to education in Japa
 - *Caltech [CMX](http://cmx.caltech.edu/) Lunch Seminar Series* / Mar, 2022
 - *Educational Testing Services ([ETS](https://www.ets.org/))* / Feb, 2022
 - *International AAAI Conference on Web and Social Media ([ICWSM '21](https://www.icwsm.org/2021/index.html))* / June, 2021
-- *IR Reading, Fall 2020* at [Tokyo ACM SIGIR Chapter](https://sigir.jp/page/en/about/)
+- *IR Reading, Fall 2020* at [Tokyo ACM SIGIR Chapter](https://sigir.jp/page/en/about/) / Nov, 2020
 
 ### - Industry
 - [atama plus inc.](https://corp.atama.plus/) / Aug, 2020
