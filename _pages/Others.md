@@ -33,9 +33,12 @@ This institute was established with the aim of contributing to education in Japa
 [[HP](https://learnlab.org/)] [[Research Project](https://learnlab.org/university-industry-collaboration-to-accelerate-learning/)]
 
 
-## Invited Talks
+## Selected Recent & Upcoming Talks
 
 ### - Academia
+- *Caltech [CMX](http://cmx.caltech.edu/) Lunch Seminar Series* / Mar, 2022
+- *Educational Testing Services ([ETS](https://www.ets.org/))* / Feb, 2022
+- *International AAAI Conference on Web and Social Media ([ICWSM '21](https://www.icwsm.org/2021/index.html))* / June, 2021
 - *IR Reading, Fall 2020* at [Tokyo ACM SIGIR Chapter](https://sigir.jp/page/en/about/)
 
 ### - Industry
