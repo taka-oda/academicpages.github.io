@@ -14,7 +14,7 @@ _Proceedings of the 2021 IEEE International Conference on Big Data ([BigData2021
 
 1. Wayne Holmes, Kaska Porayska-Pomsta, Ken Holstein, Emma Sutherland, Toby Baker, Simon Buckingham Shum, Olga C. Santos, Mercedes T. Rodrigo, Mutlu Cukurova, Ig Ibert Bittencourt, <u>Takahiro Oda</u>, and Kenneth R. Koedinger. <br>
 **Ethics of AI in Education: Toward a multidisciplinary and robust design** <br>
-Forthcoming, _The 18th ACM Conference on International Computing Education Research ([ICER2022](https://icer2022.acm.org/))_ (to appear). <br>
+Forthcoming, _The 18th ACM Conference on International Computing Education Research ([ICER2022](https://icer2022.acm.org/))_. <br>
 
 1. <u>Takahiro Oda</u>, Jason D. Hartline. <br>
 **Central Bank Communication as a Game Theory** <br>
