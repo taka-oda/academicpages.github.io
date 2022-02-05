@@ -23,7 +23,7 @@ Forthcoming, _The Twenty-Third ACM Conference on Economics and Computation ([EC'
    with Yusuke Narita and Kota Saito
    
 1. **Create Smart Seasoning Online and Offline** <br>
-   with [Kayanoya](https://www.kayanoya.com/en/), a Japanese Seasoning Company
+   with [Kayanoya](https://www.kayanoya.com/en/) (a Japanese Seasoning Company)
 
 1. **Market Design and Citizenship for sale** <br>
    with Rediet Abebe
