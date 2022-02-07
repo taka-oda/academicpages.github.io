@@ -27,7 +27,7 @@ My research interest lies at the combination of causal inference and machine lea
     - Economics of Education
 
 # Education
-- **California Institute of Technology** (2022-2027)
+- **California Institute of Technology** (2022-)
   - Incoming Graduate Student at the [Department of Computational and Mathematical Sciences](https://www.cms.caltech.edu/)
   - Research Topics: CS+Econ, Statistical Machine Learning, Causal Infrence 
 
