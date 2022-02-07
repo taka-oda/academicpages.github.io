@@ -23,7 +23,7 @@ Forthcoming, _The 23rd ACM Conference on Economics and Computation ([EC2022](htt
 
 ## Selected Work in Progress
 
-1. **Data-driven Demand Modeling** <br>
+1. **Data-driven Geometric Algorithm for Estimating Mixed Logit Model** <br>
    with Yusuke Narita and Kota Saito
    
 1. **Create Smart Seasoning Online and Offline** <br>
