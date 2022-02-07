@@ -44,7 +44,7 @@ My research interest lies at the combination of causal inference and machine lea
 
 ## Industry
 - [ALE Co, Ltd.](https://star-ale.com/en/) / Nov, 2021
-- [HOLON GIN](https://www.instagram.com/holon_gin_/) / Dec, 2021
+- [The Ethical Spirits & Co.](https://ethicalspirits.jp/en/) / Dec, 2021
 - [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) / Dec, 2021
 
 
