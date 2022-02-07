@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 I am an incoming Grad student in Computer Science at [Caltech](https://www.caltech.edu/), where I will be mainly advised by [Eric Mazumdar](http://users.cms.caltech.edu/~mazumdar/) and [Federico Echenique](http://www.its.caltech.edu/~fede/index.html). <br>
-I'm also working with [Yusuke Narita](https://www.yusuke-narita.com) (Yale), [Rediet Abebe](https://www.redietabebe.com/) (Berkeley), and some tech companies in Tokyo for empirical studies at scale. I am expecting to graduate with Bachelor's degree in Economics at Keio University in March 2022.
+I'm also working with [Yusuke Narita](https://www.yusuke-narita.com), [Rediet Abebe](https://www.redietabebe.com/), and some tech companies in Tokyo for empirical studies at scale. I am expecting to graduate with Bachelor's degree in Economics at Keio University in March 2022.
 
 My research interest lies at the combination of causal inference and machine learning with social science and philosophy. I am interested in applying counterfactual policy evaluation to public issues, using human behavioral data obtained from interactive systems.
 
