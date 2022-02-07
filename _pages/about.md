@@ -19,6 +19,7 @@ My research interest lies at the combination of causal inference and machine lea
     - Algorithmic mechanism design
     - Fairness in Machine Learnig
     - Offline reinforcement learning and evaluation
+    - AI in Education
 - Economics
     - Mechanism design
     - Econometrics
