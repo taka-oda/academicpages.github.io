@@ -47,6 +47,7 @@ This institute was established with the aim of contributing to education in Japa
 - [ZOZO Technologies](https://zozonext.com/en) / Dec, 2020
 - [ALE Co, Ltd.](https://star-ale.com/en/) / Nov, 2021
 - [Mitsubishi UFJ Research & Consulting](https://www.murc.jp/english/) / Nov, 2021
+- [The Ethical Spirits & Co.](https://ethicalspirits.jp/en/) / Dec, 2021
 - [HOLON GIN](https://www.instagram.com/holon_gin_/) / Dec, 2021
 - [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) / Dec, 2021
 
