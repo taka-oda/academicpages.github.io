@@ -13,7 +13,7 @@ name                     : &name "Takahiro Oda"
 description              : &description "Undergrad at Keio university"
 url                      : https://www.takahiro-oda.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-logo                     : "/images/site-logo.png" # 新しく入れる.
+logo                     : https://www.takahiro-oda.com/images/site-logo.png # 新しく入れる.
 repository               : "taka-oda.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
