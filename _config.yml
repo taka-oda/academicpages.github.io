@@ -11,6 +11,7 @@ title                    : "Takahiro Oda"
 title_separator          : "-"
 name                     : &name "Takahiro Oda"
 description              : &description "Undergrad at Keio university"
+image                    : /images/site-logo.png # 新しく入れる.
 url                      : https://www.takahiro-oda.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taka-oda.github.io"
@@ -48,8 +49,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-params:
-  favicon                : /images/site-logo.png # 新しく入れる.
+
 
 # SEO Related
 google_site_verification :
