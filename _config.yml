@@ -11,9 +11,7 @@ title                    : "Takahiro Oda"
 title_separator          : "-"
 name                     : &name "Takahiro Oda"
 description              : &description "Undergrad at Keio university"
-image                    : "https://www.takahiro-oda.com/images/site-logo.png"
-favicon                  : "https://www.takahiro-oda.com/images/site-logo.png"
-avatar                   : "https://www.takahiro-oda.com/images/site-logo.png" # 新しく入れる.
+favicon                  : favicon.ico
 url                      : https://www.takahiro-oda.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taka-oda.github.io"
