@@ -54,5 +54,5 @@ My research interest lies at the combination of causal inference and machine lea
 
 
 # Contact
-- Email : tak0812hir_at_gmail_dot_com
+- Email : contact[at]takahiro-oda.com
 - DM Me : [Twitter](https://twitter.com/0directi0n_)
