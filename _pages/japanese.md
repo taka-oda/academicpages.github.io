@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /jp/
+permalink: /ja/
 author_profile: true
 ---
 
