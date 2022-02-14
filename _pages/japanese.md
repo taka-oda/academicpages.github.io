@@ -40,7 +40,7 @@ author_profile: true
 **A Real-World Implementation of UnbiasedLift-based Bidding System** <br>
 _Proceedings of the 2021 IEEE International Conference on Big Data ([BigData2021](https://bigdataieee.org/BigData2021/))_. <br>
 
-1. <u>Takahiro Oda</u>. <br>
+1. <u>Takahiro Oda</u>, Jason Hartline. <br>
 **Central Bank Communication as a Game Tehory** <br>
 _ACM Conference on Economics and Computation ([EC2022](https://ec22.sigecom.org/)), forthcoming_.<br>
 [[paper](https://taka-oda.github.io//files/CBGame.pdf)]
@@ -125,7 +125,7 @@ _RecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interaction
 
 ### LearnLab
 
-カーネギーメロン大学内の教育科学に関する研究プロジェクト機関。米国ピッツバーグを中心に、データを活用したSTEM教育を自治体の枠を超えて実施する大規模なプロジェクト <br>
+カーネギーメロン大学内の教育科学に関する研究プロジェクト機関。米国ピッツバーグを中心に、データを活用したSTEM教育を自治体の枠を超えて実施する大規模なプロジェクト<br>
 [[HP](https://learnlab.org/)]
 [[リサーチプロジェクト](https://learnlab.org/university-industry-collaboration-to-accelerate-learning/)]
 
