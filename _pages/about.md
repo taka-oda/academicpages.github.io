@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /en/
 ---
 
 # About Me
@@ -32,7 +33,7 @@ My research interest lies at the combination of causal inference and machine lea
   - Research Topics: CS+Econ, Statistical Machine Learning, Causal Infrence 
 
 - **Keio University** (2018-2022)
-  - B.A. in Economics
+  - B.A. in [Economics](https://www.econ.keio.ac.jp/en/)
   - Research Topics: Econometrics, ALgorithmic Mechanism Design, Recommendation Systems
 
 
